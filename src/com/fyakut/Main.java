@@ -3,8 +3,6 @@ package com.fyakut;
 public class Main {
 	/*
 
-	sşlşağşğaşğa
-
 
 	 */
 
