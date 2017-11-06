@@ -1,6 +1,12 @@
 package com.fyakut;
 
 public class Main {
+	/*
+
+	sşlşağşğaşğa
+
+
+	 */
 
     public static void main(String[] args) {
 	Hamburger hamburger=new Hamburger("sade","beyaz ekmek","kırmızı et",5.9);
